@@ -13,3 +13,4 @@ syntax: glob
 .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_1.prx
 .metadata/.plugins/org.eclipse.epp.logging.aeri.ide/org.eclipse.epp.logging.aeri.ide.server/remote-history/_1.tis
 .metadata/.plugins/org.eclipse.m2e.logback.configuration/0.log
+.metadata/.mylyn/tasks.xml.zip
