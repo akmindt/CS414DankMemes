@@ -1,4 +1,4 @@
-package a2.monopoly;
+package a4.monopoly;
 
 public class Player {
 
